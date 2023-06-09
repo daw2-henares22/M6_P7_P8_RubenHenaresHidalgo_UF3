@@ -1,0 +1,32 @@
+export const usuarios = [
+    {
+        id:1,
+        nick:"Ruben",
+        email:"ruben@gmail.com",
+        password:"12345"
+    },
+    {
+        id:2,
+        nick:"Juan",
+        email:"juan@gmail.com",
+        password:"12345"
+    },
+    {
+        id:3,
+        nick:"Marvin",
+        email:"marvin@gmail.com",
+        password:"12345"
+    },
+    {
+        id:4,
+        nick:"Daniel",
+        email:"daniel@gmail.com",
+        password:"12345"
+    },
+    {
+        id:5,
+        nick:"Mike",
+        email:"mike@gmail.com",
+        password:"12345"
+    },
+]
